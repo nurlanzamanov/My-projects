@@ -1,9 +1,0 @@
-Areas to Improve:
-
-    Master dictionary structures for nested data.
-
-    Understand loop + break + try/except interactions in depth.
-
-    Make code robust to deletions and dynamic changes.
-
-    Improve code readability and maintainability, avoid zipping multiple lists unnecessarily.
